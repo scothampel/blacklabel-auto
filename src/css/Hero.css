@@ -4,4 +4,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url('https://via.placeholder.com/500');
+    background-size: cover;
 }
