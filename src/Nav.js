@@ -6,7 +6,7 @@ export default function Nav() {
     return (
             <nav className='navbar sticky-top navbar-expand-lg navbar-light'>
                 <div className='container border-bottom border-dark pb-2'>
-                    <a className='navbar-brand d-flex align-items-center' href='#'>
+                    <a className='navbar-brand d-flex align-items-center' href='#app'>
                         <img src={logo} width='100px' alt='Black Label Auto Detailing'/>
                         <h2 className='d-none d-md-inline d-lg-none ms-3 mb-0 font-primary'>BLACK LABEL AUTO DETAILING</h2>
                     </a>
@@ -16,16 +16,16 @@ export default function Nav() {
                     <div className='collapse navbar-collapse' id='navContent'>
                         <ul className='navbar-nav ms-lg-auto mb-lg-0 row'>
                             <li className='nav-item col-auto'>
-                                <a className='nav-link link-black' href='#app'>SERVICES</a>
+                                <a className='nav-link link-black' href='#services'>SERVICES</a>
                             </li>
                             <li className='nav-item col-auto'>
-                                <a className='nav-link link-black' href='#'>PORTFOLIO</a>
+                                <a className='nav-link link-black' href='#portfolio'>PORTFOLIO</a>
                             </li>
                             <li className='nav-item col-auto'>
-                                <a className='nav-link link-black' href='#'>ABOUT</a>
+                                <a className='nav-link link-black' href='#about'>ABOUT</a>
                             </li>
                             <li className='nav-item col-auto'>
-                                <a className='nav-link link-black' href='#'>CONTACT</a>
+                                <a className='nav-link link-black' href='#contact'>CONTACT</a>
                             </li>
                         </ul>
                     </div>
