@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sonny';
+    src: url('../font/SonnyGothic-Black.woff') format('woff');
+    src: url('../font/SonnyGothic-Black.woff2') format('woff2');
+}
+.font-primary {
+    font-family: 'sonny';
+}
+
+body {
+    color: black!important;
+}

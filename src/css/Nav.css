@@ -1,0 +1,13 @@
+.nav-item {
+    font-family: 'sonny';
+    font-size: 24pt;
+}
+@media (min-width: 1200px){
+    .nav-item {
+        font-size: 28pt;
+    }
+}
+
+.navbar-light .navbar-nav .nav-link.link-black {
+    color: rgba(0,0,0,1);
+}

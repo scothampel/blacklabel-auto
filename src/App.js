@@ -1,9 +1,11 @@
 import './css/App.css';
+import Nav from './Nav';
 
 function App() {
   return (
-    <div className='App'>
-      <div className='alert alert-primary'>Test</div>
+    <div className='App' id='app'>
+      <Nav />
+      <div style={{'height': '3000px'}}></div>
     </div>
   );
 }
