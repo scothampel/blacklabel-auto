@@ -1,0 +1,15 @@
+.footer {
+    background-color: black;
+    color: white;
+}
+.footer-social {
+    font-size: 32pt;
+    text-align: center;
+}
+.footer-link {
+    color: white;
+    transition: color .15s;
+}
+.footer-link:hover {
+    color: rgba(255,255,255,0.7);
+}
