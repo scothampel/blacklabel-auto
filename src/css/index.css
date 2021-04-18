@@ -4,7 +4,7 @@
     src: url('../font/SonnyGothic-Black.woff2') format('woff2');
 }
 .font-primary {
-    font-family: 'sonny';
+    font-family: 'sonny', sans-serif;
 }
 
 body {
