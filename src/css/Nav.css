@@ -11,3 +11,7 @@
 .navbar-light .navbar-nav .nav-link.link-black {
     color: rgba(0,0,0,1);
 }
+.navbar-toggler i {
+    color: rgba(0,0,0,1);
+    font-size: 2.5em;
+}
