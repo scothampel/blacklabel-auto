@@ -8,7 +8,7 @@ export default function Footer() {
                 <div className='row'>
                     <div className='col footer-social'>
                         <a className='footer-link' href='https://www.facebook.com/Blacklabelautodetails/' target='about:blank'>
-                            <i class="bi bi-facebook"></i>
+                            <i className="bi bi-facebook"></i>
                         </a>
                     </div>
                     <div className='col footer-social'>
