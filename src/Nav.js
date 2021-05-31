@@ -4,7 +4,7 @@ import logo from './logo.svg';
 
 export default function Nav() {
     return (
-            <nav className='navbar sticky-top navbar-expand-lg navbar-light p-0'>
+            <nav className='navbar sticky-top navbar-expand-lg navbar-light pb-0'>
                 <div className='container border-bottom border-dark pb-2'>
                     <div className='row col m-0'>
                     <a className='navbar-brand d-flex align-items-center col-auto m-0' href='#app'>
