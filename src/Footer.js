@@ -13,7 +13,7 @@ export default function Footer() {
                     </div>
                     <div className='col footer-social'>
                         <a className='footer-link' href='https://www.instagram.com/black_labelautodetailing/' target='about:blank'>
-                            <i class="bi bi-instagram"></i>
+                            <i className="bi bi-instagram"></i>
                         </a>
                     </div>
                 </div>
