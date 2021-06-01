@@ -26,9 +26,6 @@ export default function Nav() {
                             <a className='nav-link link-black' href='#portfolio'>PORTFOLIO</a>
                         </li>
                         <li className='nav-item col-auto'>
-                            <a className='nav-link link-black' href='#about'>ABOUT</a>
-                        </li>
-                        <li className='nav-item col-auto'>
                             <a className='nav-link link-black' href='#contact'>CONTACT</a>
                         </li>
                     </ul>
