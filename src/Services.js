@@ -6,7 +6,7 @@ export default function Services() {
         <div className='container' id='services'>
             <div className='row row-cols-1 row-cols-md-3 g-4 mt-0 mb-4'>
                 <div className='col'>
-                    <div className='card border-0'>
+                    <div className='card card-black border-0'>
                         <div className='card-body'>
                             <h4 className='card-title font-primary'>Full Interior / Exterior Detail<br/>$225.00</h4>
                             <hr />
@@ -27,7 +27,7 @@ export default function Services() {
                     </div>
                 </div>
                 <div className='col'>
-                    <div className='card border-0'>
+                    <div className='card card-black border-0'>
                         <div className='card-body'>
                             <h4 className='card-title font-primary'>Full Interior Detail<br/>$125.00</h4>
                             <hr />
@@ -45,7 +45,7 @@ export default function Services() {
                     </div>
                 </div>
                 <div className='col'>
-                    <div className='card border-0'>
+                    <div className='card card-black border-0'>
                         <div className='card-body'>
                             <h4 className='card-title font-primary'>Full Exterior Ceramic Detail<br/>$150.00</h4>
                             <hr />
