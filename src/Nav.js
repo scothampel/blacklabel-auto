@@ -1,8 +1,20 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import './css/Nav.css';
 import logo from './logo.svg';
+import $ from 'jquery';
 
 export default function Nav() {
+    useEffect(() => {
+        $('.nav-link').on('click', () => {
+            $('.navbar-toggler').click();
+        });
+        $('.navbar-brand').on('click', () =>{
+            if($('.collapse').hasClass('show')){
+                $('.navbar-toggler').click();
+            }
+        });
+    }, [])
+
     return (
         <nav className='navbar sticky-top navbar-expand-lg navbar-light pb-0'>
             <div className='container border-bottom border-dark pb-2'>
