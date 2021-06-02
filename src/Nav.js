@@ -6,7 +6,9 @@ import $ from 'jquery';
 export default function Nav() {
     useEffect(() => {
         $('.nav-link').on('click', () => {
-            $('.navbar-toggler').click();
+            if($('.collapse').hasClass('show')){
+                $('.navbar-toggler').click();
+            }
         });
         $('.navbar-brand').on('click', () =>{
             if($('.collapse').hasClass('show')){
