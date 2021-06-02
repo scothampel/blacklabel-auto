@@ -21,7 +21,7 @@ export default function Nav() {
             className="navbar-brand d-flex align-items-center col-auto m-0"
             href="#app"
           >
-            <img src={logo} width="100px" alt="Black Label Auto Detailing" />
+            <img src={logo} alt="Black Label Auto Detailing" />
             <h2 className="d-none d-md-inline d-lg-none ms-3 mb-0 font-primary">
               BLACK LABEL AUTO DETAILING
             </h2>

@@ -23,12 +23,12 @@
     font-size: 2.5em;
 }
 
+.navbar-brand img {
+    width: 11vh;
+}
 @media (max-width: 575px){
     .navbar-brand {
         padding-left: 0!important;
         padding-right: 0!important;
-    }
-    .navbar-brand img {
-        width: 80px
     }
 }
