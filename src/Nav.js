@@ -10,7 +10,6 @@ export default function Nav() {
                     <a className='navbar-brand d-flex align-items-center col-auto m-0' href='#app'>
                         <img src={logo} width='100px' alt='Black Label Auto Detailing' />
                         <h2 className='d-none d-md-inline d-lg-none ms-3 mb-0 font-primary'>BLACK LABEL AUTO DETAILING</h2>
-
                     </a>
                     <h4 className='d-md-none col-6 d-flex align-items-center font-primary text-wrap'>BLACK LABEL <br />AUTO DETAILING</h4>
                     <button className='navbar-toggler col-auto border-0 p-0 ms-auto' type='button' data-bs-toggle='collapse' data-bs-target='#navContent'>
