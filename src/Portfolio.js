@@ -15,7 +15,7 @@ export default function Portfolio() {
                 <Photo photoUrl='/photos/6.jpg'/>
                 <Photo photoUrl='/photos/7.jpg'/>
                 <div className='col-md-8'>
-                    <img src={logo} height='250px' id='logo-ph' />
+                    <img src={logo} height='250px' id='logo-ph' alt='Logo placeholder' />
                 </div>
             </div>
         </div>
