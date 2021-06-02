@@ -1,0 +1,12 @@
+#contact div {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+}
+
+@media (min-width: 768px){
+    #contact div {
+        width: 50%;
+    }
+}
