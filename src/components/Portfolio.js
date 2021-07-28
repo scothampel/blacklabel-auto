@@ -1,7 +1,6 @@
-import React from 'react';
 import Photo from './Photo';
-import './css/Portfolio.css';
-import logo from './logo.svg';
+import '../styles/Portfolio.css';
+import logo from '../images/logo.svg';
 
 export default function Portfolio() {
     // Change on photo addition until CMS integration

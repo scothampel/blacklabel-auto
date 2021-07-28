@@ -1,6 +1,6 @@
-import React, { useEffect } from "react";
-import "./css/Nav.css";
-import logo from "./logo.svg";
+import { useEffect } from "react";
+import "../styles/Nav.css";
+import logo from "../images/logo.svg";
 import $ from "jquery";
 
 export default function Nav() {
