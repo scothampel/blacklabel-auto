@@ -4,7 +4,6 @@ import Footer from './Footer';
 import Hero from './Hero';
 import Services from './Services';
 import Portfolio from './Portfolio';
-import Contact from './Contact';
 
 function App() {
   return (
@@ -13,7 +12,6 @@ function App() {
       <Hero />
       <Services />
       <Portfolio />
-      <Contact />
       <Footer />
     </div>
   );
