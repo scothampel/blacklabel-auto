@@ -87,7 +87,7 @@ export default function Services() {
                             <h5 className='font-primary text-muted'>Cars: $600<br />Midsized: $700 <br /> Oversized: $800</h5>
                             <hr />
                             <ul>
-                                <li className='li-check'>Up to 3 years of protection</li>
+                                <li>Up to 3 years of protection</li>
                                 <li>Offers 80% of professional Serum Ultra’s performance</li>
                                 <li>Can be machine polished from your vehicle's paintwork if removal is needed</li>
                                 <li>Adds gloss, resists swirls, and repels contaminants and dirt</li>
