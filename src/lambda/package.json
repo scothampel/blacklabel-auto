@@ -1,0 +1,16 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "photos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scot Hampel <scot@scothampel.com> (https://scothampel.com)",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^4.1.3"
+  }
+}
